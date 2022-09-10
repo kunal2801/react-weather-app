@@ -1,3 +1,9 @@
+Published to weather-appgg.surge.sh
+
+A Weather App created using:
+1) React Framework
+2) OpenWeather API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
