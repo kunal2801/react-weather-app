@@ -1,4 +1,4 @@
-Published to weather-appgg.surge.sh
+Published to https://kunalportfolio.me/react-weather-app/
 
 A Weather App created using:
 1) React Framework
