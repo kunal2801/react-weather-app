@@ -22,9 +22,13 @@ const Topbtns = ({ setQuery }) => {
       id: 5,
       title: "Paris",
     },
+    {
+      id: 6,
+      title: "Mumbai",
+    },
   ];
   return (
-    <div className="flex items-center justify-around my-6">
+    <div className=" grid grid-cols-3 gap-2 md:flex items-center justify-around my-6">
       {cities.map((city) => {
         return (
           <button

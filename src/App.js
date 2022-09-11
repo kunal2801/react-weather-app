@@ -35,7 +35,7 @@ function App() {
   };
   return (
     <div
-      className={`mx-auto max-w-screen-md mt-4 py-5 px-32 bg-gradient-to-br h-fit shadow-xl shadow-gray-400 ${formatBackground()} `}
+      className={`max-w-full sm:max-w-screen-sm mt-2 py-2 px-3 mx-auto md:max-w-screen-md md:mt-4 md:py-5 md:px-32 bg-gradient-to-br h-fit shadow-xl shadow-gray-400 ${formatBackground()} `}
     >
       <Topbtns setQuery={setQuery} />
       <Inputs setQuery={setQuery} units={units} setUnits={setUnits} />
