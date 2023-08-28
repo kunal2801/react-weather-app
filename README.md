@@ -1,4 +1,4 @@
-Published to https://kunalportfolio.me/react-weather-app/
+Published to http://kunal2801.github.io/react-weather-app/
 
 A Weather App created using:
 1) React Framework
